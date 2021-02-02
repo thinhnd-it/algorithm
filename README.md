@@ -9,5 +9,5 @@
   * main.tex mã nguồn của file latex
 3. File report_final là bản pdf báo cáo sau khi đã chỉnh sửa sau lần góp ý thứ nhất.
 
-[Link colab thực nghiệm](https://colab.research.google.com/drive/1qFpFmxgtAslSV1RNRYkNBjazqzUCSQDE?usp=sharing)
-[Link github](https://github.com/thinhtrung78/algorithm/new/master)
+[Link colab thực nghiệm](https://colab.research.google.com/drive/1qFpFmxgtAslSV1RNRYkNBjazqzUCSQDE?usp=sharing) \\
+[Link github](https://github.com/thinhtrung78/algorithm/tree/master)
